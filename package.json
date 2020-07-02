@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "A repo to practice learning Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brewmasterbean/webdev-course.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Git",
+    "Gulp"
+  ],
+  "author": "Brady Bean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brewmasterbean/webdev-course/issues"
+  },
+  "homepage": "https://github.com/brewmasterbean/webdev-course#readme"
+}
